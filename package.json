@@ -1,0 +1,30 @@
+{
+  "name": "generator-spring-microservice",
+  "version": "2.1.1",
+  "description": "A Yeoman generator for Microservice with Maven + Spring + Netflix + Docker",
+  "keywords": [
+    "yeoman-generator",
+    "Java",
+    "Spring",
+    "Microservice",
+    "Netflix"
+  ],
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NationalLibraryOfNorway/generator-spring-microservice"
+  },
+  "author": "Andreas Bjørnådal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NationalLibraryOfNorway/generator-spring-microservice/issues"
+  },
+  "homepage": "https://github.com/NationalLibraryOfNorway/generator-spring-microservice",
+  "dependencies": {
+    "yeoman-generator": "2.0.3",
+    "chalk": "2.3.2"
+  }
+}
